@@ -1,5 +1,5 @@
 - Hi, I'm Anmol-Raj-Singh 👋
-.🎯 Project Manager with a passion for driving results in tech-driven environments.
+.🎯 Project Manager with a passion for delivering impactful results in fast-paced, tech-driven environments.
 .💼 Expertise in Agile methodologies, cross-functional team leadership, and delivering high-impact solutions.
 .🔄 Proficient in Frontend Development and Project Planning, bridging the gap between technical teams and stakeholders.
 .🌱 Currently enhancing my skills in Next.js, Tailwind CSS, and other Frontend Technologies to better support development teams.
