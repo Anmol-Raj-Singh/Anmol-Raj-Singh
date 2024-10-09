@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Anmol-Raj-Singh
-- 👀 I’m interested in NextJS,Tailwind css and Frontend Technologies
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on Coding useful ideas
-- 📫 How to reach me anmolrajatwork@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Team work , Project managing , Buidling Stuff
+- Hi, I'm Anmol-Raj-Singh 👋
+.🎯 Project Manager with a passion for driving results in tech-driven environments.
+.💼 Expertise in Agile methodologies, cross-functional team leadership, and delivering high-impact solutions.
+.🔄 Proficient in Frontend Development and Project Planning, bridging the gap between technical teams and stakeholders.
+.🌱 Currently enhancing my skills in Next.js, Tailwind CSS, and other Frontend Technologies to better support development teams.
+.✨ Seeking collaboration on projects that merge innovation and strategic execution.
+.📧 Reach me at: anmolrajartwork@gmail.com
+.⚙️ Pronouns: he/him
+
 
 <!---
 Anmol-Raj-Singh/Anmol-Raj-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
